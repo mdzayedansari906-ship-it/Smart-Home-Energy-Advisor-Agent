@@ -3,7 +3,7 @@
 > Monitor energy usage, predict future consumption, and receive AI-powered recommendations to reduce electricity costs — powered by **IBM Watsonx.ai** and **AutoAI**.
 
 ---
-![Uploading image.png…]()
+
 
 ## Project Structure
 
